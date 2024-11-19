@@ -1,0 +1,30 @@
+﻿# Visual Studio specific files
+*.suo
+*.user
+*.vshost.exe
+*.webinfo
+*.dbcache*
+_rels
+bin
+obj
+packages
+*.vs
+*.pdb
+*.cache
+*.log
+*.tmp
+*.git
+*.svn
+*.hg
+*.cvs
+*.gitmodules
+.DS_Store
+
+# Secrets and configuration files
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+secrets.json
+
+# Generated files
+*.generated.cs
